@@ -2,8 +2,8 @@
 
 # Study
 
-<p align="center">
-  <img href="https://angelluis2006.github.io" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="50px">
+<p align="center" href="https://angelluis2006.github.io">
+  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="50px">
 <br><br>
   <img src="https://www.netacad.com/portal/sites/all/themes/custom/post_login/assets/img/cisco_netacad_logo.png" width="100px">
 </p>
