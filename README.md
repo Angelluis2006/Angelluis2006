@@ -2,8 +2,7 @@
 
 # Study
 
-  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="50px">
-  <img src="https://www.netacad.com/portal/sites/all/themes/custom/post_login/assets/img/cisco_netacad_logo.png" width=50px>
+  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="50px"><img src="https://www.netacad.com/portal/sites/all/themes/custom/post_login/assets/img/cisco_netacad_logo.png" width=50px>
 <!--
 **Angelluis2006/Angelluis2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
