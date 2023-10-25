@@ -1,5 +1,5 @@
 <h3 align="center"><a href="https://angelluis2006.github.io"><img src="https://i.imgur.com/QE0uriH.png" width="600px"></a></h3>
-<a style="color:blue;border-radious:7px;top:500px;position:absolute">Ejemplo</a>
+<a style="background-color: blue; border-radious: 90px; top: 500px; position: absolute;">Ejemplo</a>
 <!--
 **Angelluis2006/Angelluis2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
