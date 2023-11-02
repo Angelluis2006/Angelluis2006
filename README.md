@@ -8,5 +8,9 @@
   </a>
 </p>
 <br><br>
-  <img src="https://www.netacad.com/portal/sites/all/themes/custom/post_login/assets/img/cisco_netacad_logo.png" width="100px">
+<p align="center" href="https://angelluis2006.github.io">
+   <a href="https://angelluis2006.github.io">
+    <img src="https://www.netacad.com/portal/sites/all/themes/custom/post_login/assets/img/cisco_netacad_logo.png" width="100px">
+   </a>
+</p>
 </p>
