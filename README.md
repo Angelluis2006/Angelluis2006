@@ -13,4 +13,4 @@
     <img src="https://www.netacad.com/portal/sites/all/themes/custom/post_login/assets/img/cisco_netacad_logo.png" width="100px">
    </a>
 </p>
-</p>
+
